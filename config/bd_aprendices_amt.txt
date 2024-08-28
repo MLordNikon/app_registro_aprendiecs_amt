@@ -1,0 +1,34 @@
+********************** INFORMACION TABLA BASE DE DATOS **************
+CREATE TABLE aprendices_amt (
+    id INT AUTO_INCREMENT,
+    tipo_documento VARCHAR(255),
+    numero_documento INT(255) NOT NULL,
+    nombres VARCHAR(255),
+    apellidos VARCHAR(255),
+    ficha VARCHAR (255),
+    programa VARCHAR (255),
+    numero_celular VARCHAR(255),
+    correo VARCHAR(255),
+    direccion_vivienda VARCHAR(255),
+    fecha_nacimiento DATE,
+    colegio VARCHAR(255),
+    estado_actual VARCHAR(255),
+    PRIMARY KEY (numero_documento),
+    UNIQUE KEY (id)
+);
+
+
+********************** CAMPOS A EDITAR EN FORMULARIO **************
+tipo_documento		editar
+numero_celular		editar
+correo			editar
+direccion_vivienda	editar	
+estado_actual		editar
+
+
+
+
+
+		
+
+

@@ -16,266 +16,162 @@ TI
 TI
 TI
 TI
-TI
-TI
-TI
-TI
-TI
-TI
-TI
-TI
-TI
-TI
-
-
 
 adicionalmente hay un campo llamado numero_documento en el cual se deben almacenar los siguientes valores: 
-1105373435
-1108335689
-1114242921
-1107855066
-1109670816
-1057095908
-1111676009
-1104821069
-1105930287
-1110044232
-1108567448
-1107851269
-1108645154
-1111673304
-1108566153
-1108336488
-1107856857
-1107853878
-1108567434
-1109671027
-1110046302
-1109669003
-1149934935
-1108644962
-1110046238
-1114002135
-1109921902
-
-
+1107850338
+1105371111
+1107847893
+1111481334
+1107846955
+1108335390
+1110293904
+1107848162
+1109667057
+1105370483
+1109545770
+1107845338
+1111481025
+1107849352
+1110368549
+1108563866
+1109667345
 
 adicionalmente hay un campo llamado nombres en el cual se deben almacenar los siguientes valores en minuscula:  
-ESTEBAN
-ISMAEL
-JAVIER ANDRES
-JAVIER JOSUE
-JHON SEBASTIAN
-JOSE DANIEL
-JOSE DAVID
-JUAN DAVID
-JUAN DIEGO
-JUAN DIEGO
-JUAN ESTEBAN
-JUAN PABLO
-KEVIN
+ALEJANDRA 
+ANA MARÍA 
+BRYAN DAVID
+CAMILO JOSÉ 
+CARLOS ALBERTO 
+GABRIELA
+JONATAN 
+JUAN JOSE
+LAURA CAMILA
 LAURA SOFIA
-LUISA FERNANDA
-MANUEL ALEJANDRO
-MANUELA
-MICHAEL
-MIGUEL ANGEL
-NICOLAS
-NICOLÁS
-SAMUEL
-SAMUEL
-SAMUEL
-SEBASTIAN
-SHARON DAYANA
-STEVEN
-
-
+LAURA VALENTINA 
+LUISA MARÍA
+MARÍA PAULA
+MAURICIO
+NICOLE JULIANA 
+SAMUEL 
+SEBASTIAN ALEJANDRO 
 
 adicionalmente hay un campo llamado apellidos en el cual se deben almacenar los siguientes valores en minuscula:  
-OSORIO GUEVARA
-QUINTERO RIASCOS
-ROJAS CRUZ
-CASTILLO PAREDES
-JANSASOY RIAÑO
-AMORTEGUI CRUZ
-CEPEDA MALDONADO
-OYOLA DIAZ
-LONDOÑO BALCAZAR
-PEREZ OSPINA
-CARABALI TULANDE
-VILLA TABARES
-VELASCO TENORIO
-BENACHI ARIAS
-GARCIA BRAVO
-FORY MOSQUERA
-JIMENEZ SALAZAR
-AGUIRRE LUCUMI
-PEREZ CONTRERAS
-BORRERO RODRIGUEZ
-MURILLO MOSQUERA
-GALLO TELLEZ
-ARISTIZABAL LOPEZ
-GONZALEZ RAMIREZ
-RAMÍREZ CHAVACO
-OSORIO COBO
-LÓPEZ BELALCAZAR
-
-
+PEÑA LEÓN 
+GARCÍA  BOTERO
+RENTERÍA PÁEZ
+TAFUR  MELO
+PASINGA  AUX
+PEREA PERLAZA 
+FERNANDEZ  NARVAEZ 
+VANEGAS RAMIREZ
+SÁNCHEZ  VILLA
+SEPULVEDA  BERMUDEZ 
+LOAIZA DIAZ
+AUX  DIOSA
+GALINDO OCHOA
+VALLEJO HUILA
+PATAQUIVA  WONG 
+ARBOLEDA  CUARAN 
+JIMENEZ SOLIS
 
 adicionalmente hay un campo llamado ficha en el cual se deben almacenar los siguientes valores: 
-2910777
-2910777
-2910777
-2910776
-2910776
-2910776
-2910776
-2910777
-2910777
-2910777
-2910776
-2910777
-2910777
-2910776
-2910776
-2910776
-2910777
-2910776
-2910777
-2910776
-2910777
-2910776
-2910776
-2910776
-2910777
-2910777
-2910777
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
+2631653
 
-
-adicionalmente hay un campo llamado programa en el cual se debe almacenar este valor para todos los registros: Teleinformatica
+adicionalmente hay un campo llamado programa en el cual se debe almacenar este valor para todos los registros: Programación de software
 
 adicionalmente hay un campo llamado numero_celular en el cual se deben almacenar los siguientes valores: 
-3187802993
-3112414544
-3136669013
-3166525139
-3153740257
-3136128219
-3158867120
-3172904397
-3005696604
-3215083089
-3178352756
-3187361945
-3125611818
-3224486886
-3135647681
-3206034933
-3236213665
-3127552726
-3244275269
-3183683250
-3173408143
-3127998727
-3128995193
-3502156896
-3116184438
-3182678509
-3152026919
-
-
+3187584677
+3126703592
+3052587916
+3126597448
+3136821878
+3042515967
+3177842537
+3014679021
+3178902779
+3156636039
+3177300079
+3225422638
+3015836177
+3156985889
+3169047933
+3226877320
+3116691820
 
 adicionalmente hay un campo llamado correo en el cual se deben almacenar los siguientes valores en minuscula: 
-e.jda.esteban.osorio@cali.edu.co
-e.jda.ismael.quintero@cali.edu.co
-e.jda.javier.rojas@cali.edu 
-paredescastillojosue@gmail.com
-sebss064@gmail.com
-amorteguicruzjosedaaniel@gmail.com
-e.jda.jose.cepeda@cali.edu.co
-e.jda.juan.oyola@cali.edu.co
-juandilon2007@gmail.com
-E.jda.juan.perez232@cali.edu.co
-e.jda.juan.carabali448@cali.edu.co
-E.jda.juan.villa@cali.edu.co
-e.jda.kevin.velasco@cali.edu.co
-e.jda.laura.arias304@cali.edu.co 
-e.jda.luisa.garcia@cali.edu.co
-e.jda.manuel.fory@cali.edu.co
-e.jda.manuel.jimenez@cali.edu.co
-e.jda.michael.aguirre@cali.edu.co
-E.jda.miguel.perez434@cali.edu.co 
-e.jda.nicolas.borrero@cali.edu.co
-e.jda.nicolas.murillo@cali.edu.co
-e.jda.samuel.gallo@cali.edu.co
-e.jda.samuel.aristizabal@cali.edu.co
-e.jda.samuel.gonzalez962@cali.edu.co
-sebastianramirezchavaco@gmail.com
-e.jda.sharon.osorio@cali.edu.co
-E.jda.steven.lopez@cali.edu.co
-
-
+alejandraleon.5550@hotmail.com
+ana.garcia.botero08@gmail.com
+kiraperoconalas@gmail.com
+tafurmeloc@gmail.com
+carlospasingaaux.est@comfandi.edu.co
+gabrielaperea0822@gmail.com
+jonatanfernandez668@gmail.com
+vanegasj110@gmail.com
+camilasan0507@gmail.com
+laurasepulvedabermudez.est@comfandi.edu.co
+lauraloaizadiaz@gmail.com
+luisaauxdiosa.est@comfandi.edu.co
+mpgalindo8@gmail.com
+vakkemao@gmail.com
+nicolejpw@hotmail.com
+samuelarboleda39@gmail.com
+sebasjimenezsolis2007@gmail.com
 
 adicionalmente hay un campo llamado direccion_vivienda en el cual se deben almacenar los siguientes valores en minuscula: 
-CRA 8A 58-81
-Calle 72F2 #24B1-46
-Cra 8a #56-21
-Cra 11b 64-22
-Cra 7c #62-25
-cra12 58-35
-Carrera 11a #59-125
-cra 12d#5809
-Dg. 26h 4 #7318
-Carrera 23 #95 -43
-Cra 22 #70 04
-Carrera 12 #58-11
-Carrera 12 abis #62-18
-Cra29C oeste 11-63
-Carrera 10a #5844 
-Cra 7mbis #76-127
-Calle 72c#22-21
-Cra 11d # 47-29
-Kcr 12-58-07
-calle 64 #10b-50
-Crr 11 # 54-118
-51#12-2
-calle 62#8-100
-calle 45 #11-39
-Carrera 7 p bis #63-33
-kl 3 via cabasa 
-Cra 12c #55-55
-
+Calle83 #2bn-18
+calle 72s #28e 4-26
+Carrera 28 #24-13
+Cra 11f #38-32
+Cra 26l1 #122-22
+carrera 98b#59-75
+Cra13#56-35
+Cl 70 #1-181 
+Cra 2b#44-54 
+Cra 32 #32-78
+Cra 25B #30-63
+Carrera 26g 2 #121-51
+Carrera 83E #54-58 
+Calle 44 #11d13
+Carrea 20 # 23-16
+Cr29a#17-60
+Cra. 112 #48 - 92
 
 adicionalmente hay un campo llamado fecha_nacimiento en el cual se deben almacenar los siguientes valores, en el formato: año/mes/dia
-9/08/2008
-29/02/2008
-8/09/2007
-15/01/2009
-18/04/2009
-10/12/2007
-12/12/2008
-13/02/2009
-29/11/2007
-31/12/2007
-26/03/2009
-28/02/2008
-28/05/2009
-12/02/2008
-6/05/2008
-19/02/2009
-24/06/2009
-9/08/2008
-12/03/2009
-2/05/2009
-1/11/2008
-31/05/2008
-26/07/2008
-11/04/2009
-17/10/2008
-26/08/2008
-5/11/2007
+9/12/2007
+13/08/2007
+9/05/2007
+5/01/2007
+15/02/2007
+22/08/2007
+18/04/2007
+4/06/2007
+5/05/2007
+4/05/2007
+3/10/2007
+26/09/2006
+4/09/2006
+17/09/2007
+5/06/2007
+1/03/2007
+26/06/2007
 
 
-adicionalmente hay un campo llamado colegio en el cual se deben almacenar el siguiente valor para todos: JDA
+adicionalmente hay un campo llamado colegio en el cual se deben almacenar el siguiente valor para todos: CP
 
-adicionalmente hay un campo llamado estado_actual en el cual se deben almacenar el siguiente valor para todos: En formación
+adicionalmente hay un campo llamado estado_actual en el cual se deben almacenar el siguiente valor para todos: Certificado
